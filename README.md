@@ -13,5 +13,6 @@ This collection accompanies the video tutorials on [RobotisIm](https://robotisim
 - [point_cloud_perception](point_cloud_perception/README.md) – PCL based point‑cloud processing and RTAB‑Map launches.
 - [robot_math](robot_math/README.md) – turtlesim exercises demonstrating angular velocity and go‑to‑goal control.
 - [turtlebot3_gazebo](turtlebot3_gazebo/README.md) – simulation assets and launch files for TurtleBot3 in Gazebo.
+- [gui_interface](gui_interface/README.md) – Write PYQT based guis to run ros2 simulations for easy demos
 
 Each directory contains its own README with instructions on how to run the examples and what concepts they teach.
